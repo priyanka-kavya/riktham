@@ -18,4 +18,5 @@ This project is a web application with separate dashboards for administrators an
    ```bash
    git clone https://github.com/your-username/project.git
 2. cd project/
-3. Open the default url to login 
+3. pip install -r requirements.txt
+4. Open the default url to login 
